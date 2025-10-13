@@ -1,5 +1,10 @@
 # 🛡️ AI Guard Agent
 
+**NOTE**: final.py is the full verison of the AI Guard. Other files are milestone specific files because work was divided among teammates and hence, this github was used to share files.
+SO, SEE THE FINAL.PY VERISON ONLY FOR FULL WORKING
+
+EE782-ASSIGN2.IPYNB FILE CONTAINS THE COMMAND ACCURACY TESTING PART IN ADDITION TO FULL MODEL OF FINAL.PY, SO IF NEEDED TO SEE COMMAND ACCURACY TESTING, RUN THE .I[PYNB VERSION, IT IS ALSO COMPLETE.
+
 An intelligent room monitoring system that combines voice activation, face recognition, and escalating AI dialogue to deter intruders. Built for EE782 Advanced Machine Learning.
 This project implements an integrated AI guard agent designed to monitor hostel rooms or personal spaces autonomously. The system leverages pre-trained models across multiple modalities:
 
