@@ -1,6 +1,13 @@
 # 🛡️ AI Guard Agent
 
 An intelligent room monitoring system that combines voice activation, face recognition, and escalating AI dialogue to deter intruders. Built for EE782 Advanced Machine Learning.
+This project implements an integrated AI guard agent designed to monitor hostel rooms or personal spaces autonomously. The system leverages pre-trained models across multiple modalities:
+
+Voice Activation: Responds to spoken commands like "Guard my room" to activate/deactivate monitoring
+Face Recognition: Identifies trusted users (roommates, friends) vs. unknown individuals using face embeddings
+Escalating Dialogue: Engages intruders with progressively stern warnings (4 escalation levels) using LLM-generated responses
+Multi-lingual Support: Operates in English, Hindi, and Gujarati with culturally appropriate responses
+Speaker Verification (Bonus): Optional voice biometrics to ensure only the owner can deactivate the system
 
 ## ✨ Features
 
@@ -130,8 +137,4 @@ MIT License - Educational project for IIT coursework
 
 ## 👥 Authors
 
-Built by [Your Names] for EE782 Advanced Topics in Machine Learning
-
----
-
-**Title Suggestion**: `ai-guard-agent` or `intelligent-room-monitor`
+Built by Dhrumil Lotiya and Krisha Shah 
